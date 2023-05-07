@@ -1,4 +1,4 @@
-# Congratulations on Completing Phase 2!
+# Congratulations on Completing Phase 2! c
 
 Congratulations on finishing Phase 2 of Flatiron School's Software Engineering
 Program! In this phase, you built upon your understanding of JavaScript
